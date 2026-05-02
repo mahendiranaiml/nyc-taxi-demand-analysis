@@ -66,14 +66,12 @@ Created meaningful features:
 ## 📊 Key Visualizations
 
 ### 📈 Taxi Demand by Hour
-
-taxi_demand_hour.png
+![Taxi Demand](taxi_demand_hour.png)
 
 ---
 
 ### 🔥 Day vs Hour Heatmap
-
-taxi_demand_heatmap.png
+![Heatmap](taxi_demand_heatmap.png)
 
 ---
 
