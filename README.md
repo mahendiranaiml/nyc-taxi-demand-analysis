@@ -39,7 +39,6 @@ Created meaningful features:
 * `pickup_hour`
 * `pickup_day`
 * `is_weekend`
-* `total_cost`
 
 ---
 
@@ -68,13 +67,13 @@ Created meaningful features:
 
 ### 📈 Taxi Demand by Hour
 
-![Taxi Demand](images/taxi_demand_by_hour.png)
+taxi_demand_hour.png
 
 ---
 
 ### 🔥 Day vs Hour Heatmap
 
-![Heatmap](images/taxi_demand_heatmap.png)
+taxi_demand_heatmap.png
 
 ---
 
